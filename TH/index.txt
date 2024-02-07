@@ -23,7 +23,7 @@
               </tr>
             </table></td>
           <td width="25" align="left" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important;"><img src="https://hsbcvietnam.github.io/thg-signature/TH/image/square.png" width="25" height="25" alt="" style="display: block" /></td>
-          <td align="left" valign="middle" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important;"><table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; border: none; border-collapse: collapse;">
+          <td align="left" valign="bottom" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important;"><table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; border: none; border-collapse: collapse;">
               <tr>
                 <td align="left" valign="middle" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 20px; font-family: 'Arial', sans-serif !important; color: #414042;"><strong>Tien Le (Ms.)</strong></td>
               </tr>
