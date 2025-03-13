@@ -25,23 +25,9 @@
           <td width="25" align="left" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important;"><img src="https://hsbcvietnam.github.io/thg-signature/HO/image/square.png" width="25" height="25" alt="" style="display: block" /></td>
           <td align="left" valign="bottom" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important;"><table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; border: none; border-collapse: collapse;">
               <tr>
-                <td align="left" valign="middle" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 20px; font-family: 'Arial', sans-serif !important; color: #414042;"><strong>Tien Le (Ms.)</strong></td>
-              </tr>
-              <tr>
-                <td align="left" valign="middle" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important; color: #414042;">Account Director</td>
-              </tr>
-              <tr>
-                <td align="left" valign="middle" style="padding: 15px 0 0 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important; color: #414042;"><strong style="color: #5eb7ac;">M.</strong> <a href="tel:+84938483602" style="color: #414042; text-decoration: none;">(+84) 93 848 3602</a></td>
-              </tr>
-              <tr>
-                <td align="left" valign="middle" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important; color: #414042;"><strong style="color: #5eb7ac;">E.</strong> <a href="mailto:tien.le@thehuntergroup.com" style="color: #414042; text-decoration: none;">tien.le@thehuntergroup.com</a></td>
-              </tr>
-			  <tr>
-                <td align="left" valign="middle" style="padding: 10px 0 0 0; margin: 0; border: none; line-height: 1.3; font-size: 14px; font-family: 'Arial', sans-serif !important; color: #414042;"><a href="https://hunterone.net/" style="color: #414042; text-decoration: none;">www.<strong style="color: #e1434d;">hunterone</strong>.net</a></td>
-              </tr>
-              <tr>
-                <td align="left" valign="middle" style="padding: 3px 0 0 0; margin: 0; border: none; line-height: 1.3; font-size: 14px; font-family: 'Arial', sans-serif !important; color: #414042;">386/21B Le Van Sy St., Ward 14,<br />
-                  District 3, Ho Chi Minh City, Vietnam</td>
+                <td align="left" valign="middle" style="padding: 0; margin: 0; border: none; line-height: 1.3; font-size: 16px; font-family: 'Arial', sans-serif !important; color: #414042;"><strong style="font-size: 20px;">[name]</strong><br />[post]<br /><br /><strong style="color: #5eb7ac;">M.</strong> <a href="tel:[tel]" style="color: #414042; text-decoration: none;">[tel]</a><br />
+                  <strong style="color: #5eb7ac;">E.</strong> <a href="mailto:[mail]@hunterone.net" style="color: #414042; text-decoration: none;">[mail]@hunterone.net</a><br /><a href="https://hunterone.net/" style="color: #414042; text-decoration: none; font-size: 14px;">www.<strong style="color: #e1434d;">hunterone</strong>.net</a><br /><span style="font-size: 14px;">386/21B Le Van Sy St., Ward 14,<br />
+                  District 3, Ho Chi Minh City, Vietnam</span></td>
               </tr>
             </table></td>
         </tr>
